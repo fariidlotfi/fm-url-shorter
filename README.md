@@ -1,8 +1,9 @@
-# React + Vite
+# URL Shortening APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+URL Shortener is a simple and efficient URL shortening service developed using ReactJS and [CleanURI](https://cleanuri.com/). It allows users to shorten long URLs into more manageable and shareable links.
+Note: You have to get Demo Request from [This Link](https://cors-anywhere.herokuapp.com/corsdemo).
 
-Currently, two official plugins are available:
+# Screenshots
+![submit form](https://github.com/fariidlotfi/fm-url-shorter/assets/138003177/ff89c714-4753-4444-b1b3-bc65c60cb058)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![main-page](https://github.com/fariidlotfi/fm-url-shorter/assets/138003177/8fff00b4-3bd8-4546-a477-440f352f9111)
